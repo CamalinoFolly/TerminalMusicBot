@@ -1,7 +1,9 @@
 # Comandos do bot:
 
 about - info sobre o bot
+
 ping - latencia
+
 settings - config basica do bot
 
 # Comandos de música:
