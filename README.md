@@ -8,4 +8,4 @@ Para adicionar, só clicar [aqui](https://discord.com/api/oauth2/authorize?clien
 Para executar qualquer comando, sempre digite "sudo" antes:
 ![imagem](https://cdn.discordapp.com/attachments/990073994642346024/1057319185958580324/image.png)
 
-Clique [aqui] (linkdps) para a lista inteira de comandos
+Clique [aqui] (https://github.com/CamalinoFolly/TerminalMusicBot/blob/main/comandos.md) para a lista inteira de comandos
