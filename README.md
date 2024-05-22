@@ -8,7 +8,6 @@ Um guia simples pra adicionar meu bot de musica (baseado no source do JMusicBot)
 Para adicionar, só clicar aqui (LINK REMOVIDO, BOT NÃO FUNCIONA MAIS)
 
 # Comandos
-Para executar qualquer comando, sempre digite "sudo" antes:
-![imagem](https://cdn.discordapp.com/attachments/990073994642346024/1057319185958580324/image.png)
+Para executar qualquer comando, sempre digite "sudo" antes
 
 Clique [aqui](https://github.com/CamalinoFolly/TerminalMusicBot/blob/main/comandos.md) para a lista inteira de comandos
